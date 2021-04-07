@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nba-players/static/css/main.4b35a9f3.chunk.css",
+    "main.js": "/nba-players/static/js/main.1c25ad5b.chunk.js",
+    "main.js.map": "/nba-players/static/js/main.1c25ad5b.chunk.js.map",
+    "runtime-main.js": "/nba-players/static/js/runtime-main.49357757.js",
+    "runtime-main.js.map": "/nba-players/static/js/runtime-main.49357757.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/nba-players/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d51009e8.chunk.js": "/nba-players/static/js/2.d51009e8.chunk.js",
+    "static/js/2.d51009e8.chunk.js.map": "/nba-players/static/js/2.d51009e8.chunk.js.map",
+    "static/js/3.8d225318.chunk.js": "/nba-players/static/js/3.8d225318.chunk.js",
+    "static/js/3.8d225318.chunk.js.map": "/nba-players/static/js/3.8d225318.chunk.js.map",
+    "index.html": "/nba-players/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/nba-players/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4b35a9f3.chunk.css.map": "/nba-players/static/css/main.4b35a9f3.chunk.css.map",
+    "static/js/2.d51009e8.chunk.js.LICENSE.txt": "/nba-players/static/js/2.d51009e8.chunk.js.LICENSE.txt",
+    "static/media/spinner.222a80ed.gif": "/nba-players/static/media/spinner.222a80ed.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49357757.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d51009e8.chunk.js",
+    "static/css/main.4b35a9f3.chunk.css",
+    "static/js/main.1c25ad5b.chunk.js"
+  ]
+}
